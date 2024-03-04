@@ -13,5 +13,6 @@
 - HTML;
 - CSS;
 - BEM;
-- Flexbox;
--
+- Flexbox; 
+
+#### ссылка на страницу https://place-crur.vercel.app/
